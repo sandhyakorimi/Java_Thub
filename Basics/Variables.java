@@ -1,5 +1,6 @@
 public class Variables {
     public static void main(String[] args) {
+        // local Variables
         byte b = 1;
         short s = 323; 
         int i = 2345689;
