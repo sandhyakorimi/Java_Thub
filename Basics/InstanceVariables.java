@@ -2,6 +2,7 @@ public class InstanceVariables {
     // instance variables
     byte b;
     float f;
+    char c; 
     public static void main(String[] args) {
         // create object
         InstanceVariables obj = new InstanceVariables();
@@ -12,5 +13,7 @@ public class InstanceVariables {
         System.out.println("The default value of float is : "+obj.f);
         obj.f=3.14f;
         System.out.println("The assigned value of float is : "+obj.f);
+
+        System.out.println("The default of char : "+obj.c);
     }
 }
