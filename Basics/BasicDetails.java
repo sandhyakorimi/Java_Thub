@@ -5,5 +5,5 @@ public class BasicDetails{
         System.out.println("coming from AndhraPradesh.");
         System.out.println("Pursuing Master of computer Applications in Aditya college of Engineering and Technology.");
 
-    }`
+    }
 }
