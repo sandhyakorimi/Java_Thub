@@ -6,5 +6,15 @@ public class Operators {
         System.out.println("Multiplication : "+(a*b));
         System.out.println("Division : "+(a/b));
         System.out.println("Modulo division : "+(a%b));
+
+        // Relational Operators 
+
+        System.out.println("a==b : "+(a==b));
+        System.out.println("a!=b : "+(a!=b));
+        System.out.println("a<=b : "+(a<=b));
+        System.out.println("a>=b : "+(a>=b));
+        System.out.println("a<b : "+(a<b));
+        System.out.println("a>b : "+(a>b));
+
     }
 }
