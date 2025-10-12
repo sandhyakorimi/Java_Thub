@@ -8,6 +8,6 @@ public class Hours_Minutes_Seconds {
         int sec = min *60;
         System.out.println( hrs + " hours contains : "+min+ " minutes");
         System.out.println(hrs+ " hours contains : "+sec+" seconds");
-        sc.close();
+        sc.close(); 
     }
 }
