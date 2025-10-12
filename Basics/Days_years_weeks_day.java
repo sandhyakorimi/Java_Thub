@@ -6,7 +6,7 @@ public class Days_years_weeks_day {
         int years = n_days/365;
         int weeks = (n_days%365)/7;
         int days = (n_days%365)%7;
-        
+         
         sc.close();
     }
 }
