@@ -8,4 +8,4 @@ public class Bitwise {
         System.out.println("b<<2: "+(b<<2));
         System.out.println("b>>2: "+(b>>2)); 
     } 
-}
+} 
