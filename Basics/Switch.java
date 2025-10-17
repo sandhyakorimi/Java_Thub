@@ -9,9 +9,9 @@ public class Switch {
         System.out.print("Enter an Operator : ");
         char operator = sc.next().charAt(0);
         switch (operator) {
-            case '+':
+            case '+': 
                 System.out.println("Sum : "+(a+b));
-                break;
+                break;  
             case '-':
                 System.out.println("Minus : "+(a-b));
                 break;
