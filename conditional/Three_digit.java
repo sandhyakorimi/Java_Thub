@@ -10,7 +10,7 @@ public class Three_digit {
         int temp =num;
         System.out.println();
         int count =1;
-        while(num>9){
+        while(num>9 && count<=4){
             int val=num/10;
             if(val>0){
                 count = count+1;
