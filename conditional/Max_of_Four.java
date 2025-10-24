@@ -10,6 +10,6 @@ public class Max_of_Four {
         System.out.print("Enter secong Number : ");
         int b = sc.nextInt(); System.out.println();
         System.out.println("Enter third Number : ");
-        sc.close();
+        sc.close();     
     }
 }
