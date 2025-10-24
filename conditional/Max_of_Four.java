@@ -12,4 +12,4 @@ public class Max_of_Four {
         System.out.println("Enter third Number : ");
         sc.close();     
     }
-}
+}   
