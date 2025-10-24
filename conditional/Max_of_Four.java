@@ -13,4 +13,4 @@ public class Max_of_Four {
         sc.close();     
     }
 }   
-    
+        
