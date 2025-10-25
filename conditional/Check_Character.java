@@ -22,4 +22,4 @@ public class Check_Character {
         }
         sc.close();
     }
-}
+}   
