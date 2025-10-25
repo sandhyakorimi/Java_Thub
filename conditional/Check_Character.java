@@ -20,6 +20,6 @@ public class Check_Character {
         else{
             System.out.println(ch+" is special character !");
         }
-        sc.close();
+        sc.close(); 
     }
 }   
