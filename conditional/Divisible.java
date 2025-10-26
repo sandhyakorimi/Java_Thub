@@ -12,4 +12,4 @@ public class Divisible {
         System.out.println(num + " is "+divisible+" by  5 and 11 !");
         sc.close();
     }
-}
+}   
