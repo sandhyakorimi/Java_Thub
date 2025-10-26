@@ -13,3 +13,4 @@ public class Divisible {
         sc.close(); 
     }
 }   
+    
