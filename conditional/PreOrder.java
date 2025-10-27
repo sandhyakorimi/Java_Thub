@@ -21,7 +21,7 @@ public class PreOrder {
         preorder(root);
         return res; 
     }
-
+    
     private void preorder(TreeNode node) {
         if (node == null) {
             return;
