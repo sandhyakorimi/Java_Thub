@@ -15,11 +15,11 @@ public class PreOrder {
  * }
  */
     private List<Integer> res;
-    
+
     public List<Integer> preorderTraversal(TreeNode root) {
         res = new ArrayList<>();
         preorder(root);
-        return res;
+        return res; 
     }
 
     private void preorder(TreeNode node) {
