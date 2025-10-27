@@ -15,7 +15,7 @@ public class PreOrder {
  * }
  */
     private List<Integer> res;
-
+    
     public List<Integer> preorderTraversal(TreeNode root) {
         res = new ArrayList<>();
         preorder(root);
